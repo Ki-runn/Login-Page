@@ -1,0 +1,31 @@
+﻿@model LoginAppraisalDemo.Models.AppraisalModel
+@{
+    ViewData["Title"] = "CreateAppraisal";
+}
+
+<h2>Create Appraisal</h2>
+
+<form asp-action="CreateAppraisal" method="post">
+    <div class="form-group">
+        <label asp-for="EmployeeId">Employee</label>
+        <select asp-for="EmployeeId" class="form-control">
+            @foreach (var employee in ViewBag.Employees)
+            {
+                <option value="@employee.Id">@employee.Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="ManagerComments">Manager Comments</label>
+        <textarea asp-for="ManagerComments" class="form-control"></textarea>
+    </div>
+    <div class="form-group">
+        <label asp-for="StartDate">Start Date</label>
+        <input asp-for="StartDate" class="form-control" type="date" />
+    </div>
+    <div class="form-group">
+        <label asp-for="EndDate">End Date</label>
+        <input asp-for="EndDate" class="form-control" type="date" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

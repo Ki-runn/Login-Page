@@ -1,0 +1,43 @@
+﻿<!-- Views/Home/ViewEmployeeAppraisals.cshtml -->
+@model IEnumerable<LoginAppraisalDemo.Models.AppraisalModel>
+
+@{
+    ViewData["Title"] = "View My Appraisals";
+}
+
+<h2>View My Appraisals</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Manager</th>
+            <th>Manager Comments</th>
+            <th>Employee Comments</th>
+            <th>Manager Rating</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appraisal in Model)
+        {
+            <tr>
+                <td>@appraisal.Manager.Name</td>
+                <td>@appraisal.ManagerComments</td>
+                <td>@appraisal.EmployeeComments</td>
+                <td>@appraisal.ManagerRating</td>
+                <td>@appraisal.Status</td>
+                <td>
+                    @if (appraisal.Status == "New")
+                    {
+                        <a href="@Url.Action("EditEmployeeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary">Add Comments</a>
+                    }
+                    else
+                    {
+                        <a href="@Url.Action("EditEmployeeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary">View</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

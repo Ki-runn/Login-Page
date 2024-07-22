@@ -1,0 +1,514 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\viewappraisals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\viewappraisals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\models\\appraisalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\models\\appraisalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\hrwelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\hrwelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\viewemployeeappraisals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\viewemployeeappraisals.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\finalizeappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\finalizeappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\addcompetency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\addcompetency.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\employeewelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\employeewelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\managerwelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\managerwelcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\editemployeeappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\editemployeeappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\loginappraisaldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\loginappraisaldemo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\data\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\createappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\createappraisal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\views\\home\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\views\\home\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\models\\competencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\models\\competencymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|c:\\users\\kiran.tr\\source\\repos\\loginappraisaldemo\\loginappraisaldemo\\migrations\\20240608210718_kiranaddedaddphonenumberandmanageridtoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC5ABF83-33BB-4480-A839-DCA50E2AE4DF}|LoginAppraisalDemo\\LoginAppraisalDemo.csproj|solutionrelative:loginappraisaldemo\\migrations\\20240608210718_kiranaddedaddphonenumberandmanageridtoemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAcwMgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T10:51:21.552Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:45:18.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HRWelcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\HRWelcome.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\HRWelcome.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\HRWelcome.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\HRWelcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T12:43:27.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppraisalModel.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\AppraisalModel.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Models\\AppraisalModel.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\AppraisalModel.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Models\\AppraisalModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:48:38.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewAppraisals.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ViewAppraisals.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\ViewAppraisals.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ViewAppraisals.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\ViewAppraisals.cshtml",
+              "ViewState": "AQIAACIAAAAAAAAAAAAIwDsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:07:03.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCompetency.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\AddCompetency.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\AddCompetency.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\AddCompetency.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\AddCompetency.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T20:30:25.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FinalizeAppraisal.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\FinalizeAppraisal.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\FinalizeAppraisal.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\FinalizeAppraisal.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\FinalizeAppraisal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:56:07.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Login.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\Login.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Login.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T06:01:54.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ViewEmployeeAppraisals.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ViewEmployeeAppraisals.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\ViewEmployeeAppraisals.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ViewEmployeeAppraisals.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\ViewEmployeeAppraisals.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:54:35.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManagerWelcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ManagerWelcome.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\ManagerWelcome.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\ManagerWelcome.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\ManagerWelcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T12:44:23.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswC8AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T19:52:25.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeWelcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\EmployeeWelcome.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\EmployeeWelcome.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\EmployeeWelcome.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\EmployeeWelcome.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-01T12:43:55.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\Welcome.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\Welcome.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-26T17:49:46.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-22T10:45:26.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Data\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Data\\EmployeeContext.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Data\\EmployeeContext.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Data\\EmployeeContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAIwBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:39:37.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T19:55:48.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Program.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Program.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:12:24.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginAppraisalDemo.csproj",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\LoginAppraisalDemo.csproj",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\LoginAppraisalDemo.csproj",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\LoginAppraisalDemo.csproj",
+              "RelativeToolTip": "LoginAppraisalDemo\\LoginAppraisalDemo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-26T17:39:08.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditEmployeeAppraisal.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\EditEmployeeAppraisal.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\EditEmployeeAppraisal.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\EditEmployeeAppraisal.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\EditEmployeeAppraisal.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-22T20:55:30.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreateAppraisal.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\CreateAppraisal.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\CreateAppraisal.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\CreateAppraisal.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\CreateAppraisal.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T22:05:48.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\Login.cshtml.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:07:45.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\AddEmployee.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\AddEmployee.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\AddEmployee.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T20:23:11.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Models\\EmployeeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:26:47.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\login.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Models\\login.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\login.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Models\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T17:32:11.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240608210718_kiranaddedAddPhoneNumberAndManagerIdToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Migrations\\20240608210718_kiranaddedAddPhoneNumberAndManagerIdToEmployee.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Migrations\\20240608210718_kiranaddedAddPhoneNumberAndManagerIdToEmployee.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Migrations\\20240608210718_kiranaddedAddPhoneNumberAndManagerIdToEmployee.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Migrations\\20240608210718_kiranaddedAddPhoneNumberAndManagerIdToEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T21:07:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Views\\Home\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Views\\Home\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LoginAppraisalDemo\\Views\\Home\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-08T20:40:27.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CompetencyModel.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\CompetencyModel.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Models\\CompetencyModel.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Models\\CompetencyModel.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Models\\CompetencyModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T20:31:04.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAmwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:15:40.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "LoginAppraisalDemo\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T12:45:56.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "LoginAppraisalDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\kiran.tr\\source\\repos\\LoginAppraisalDemo\\LoginAppraisalDemo\\appsettings.json",
+              "RelativeToolTip": "LoginAppraisalDemo\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-22T10:49:40.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

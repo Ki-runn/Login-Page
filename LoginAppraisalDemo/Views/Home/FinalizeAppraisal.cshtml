@@ -1,0 +1,16 @@
+﻿<!-- Views/Home/FinalizeAppraisal.cshtml -->
+@model LoginAppraisalDemo.Models.AppraisalModel
+
+@{
+    ViewData["Title"] = "Finalize Appraisal";
+}
+
+<h2>Finalize Appraisal</h2>
+
+<form asp-action="FinalizeAppraisal" method="post">
+    <div class="form-group">
+        <label asp-for="ManagerRating">Manager Rating</label>
+        <input asp-for="ManagerRating" class="form-control" type="range" min="1" max="5" />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

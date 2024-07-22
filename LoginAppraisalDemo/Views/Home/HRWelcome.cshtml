@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "HR Welcome";
+}
+
+<h2>Welcome, @ViewBag.Username!</h2>
+
+<div>
+    <button onclick="location.href='@Url.Action("AddEmployee", "Home")'" class="btn btn-primary">Add Employee</button>
+    <button onclick="location.href='@Url.Action("AddCompetency", "Home")'" class="btn btn-primary">Add Competency</button>
+    <button onclick="location.href='@Url.Action("ViewAppraisals", "Home")'" class="btn btn-primary">Appraisals</button>
+</div>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <div id="successMessage" data-message="@TempData["SuccessMessage"]"></div>
+}
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var successMessageElement = document.getElementById("successMessage");
+            if (successMessageElement) {
+                var message = successMessageElement.getAttribute("data-message");
+                if (message) {
+                    alert(message);
+                }
+            }
+        });
+    </script>
+}

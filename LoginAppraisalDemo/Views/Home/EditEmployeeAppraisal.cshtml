@@ -1,0 +1,16 @@
+﻿<!-- Views/Home/EditEmployeeAppraisal.cshtml -->
+@model LoginAppraisalDemo.Models.AppraisalModel
+
+@{
+    ViewData["Title"] = "Edit Appraisal";
+}
+
+<h2>Edit Appraisal</h2>
+
+<form asp-action="EditEmployeeAppraisal" method="post">
+    <div class="form-group">
+        <label asp-for="EmployeeComments">Employee Comments</label>
+        <textarea asp-for="EmployeeComments" class="form-control"></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

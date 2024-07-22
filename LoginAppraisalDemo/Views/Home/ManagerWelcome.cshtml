@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Manager Welcome";
+}
+
+<div class="container">
+    <h2>Welcome Manager @ViewBag.Username</h2>
+
+    <div>
+        <a href="@Url.Action("CreateAppraisal", "Home")" class="btn btn-primary">Create Appraisal</a>
+        <a href="@Url.Action("ViewAppraisals", "Home")" class="btn btn-primary">Employee Appraisals</a>
+    </div>
+</div>

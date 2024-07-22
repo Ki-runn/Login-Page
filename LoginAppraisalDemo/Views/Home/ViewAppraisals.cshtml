@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "ViewAppraisal";
+}
+
+<h2>View Appraisals</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            @if (ViewBag.UserRole== "Manager")
+            {
+                
+                <th>Employee</th>
+            }
+            <th>Manager Comments</th>
+            <th>Employee Comments</th>
+            <th>Manager Rating</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var appraisal in Model)
+        {
+            <tr>
+                @if (ViewBag.UserRole == "Manager")
+                {
+                     <td>@appraisal.Employee.Name</td>
+                }
+               
+                <td>@appraisal.ManagerComments</td>
+                <td>@appraisal.EmployeeComments</td>
+                <td>@appraisal.ManagerRating</td>
+                <td>@appraisal.Status</td>
+                <td>
+                    @if (ViewBag.UserRole == "Manager")
+                    {
+                        if (appraisal.Status == "Pending")
+                        {
+                            <a href="@Url.Action("FinalizeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary">Finalize</a>
+                        }
+                        else if (appraisal.Status == "New")
+                        {
+                            <a href="@Url.Action("FinalizeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary disabled-link">Finalize</a>
+                        }
+                    }
+                    else if (ViewBag.UserRole == "Employee")
+                    {
+                        if(appraisal.Status == "Completed")
+                        {
+                            <a href="@Url.Action("EditEmployeeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary disabled-link">View</a>
+                        }
+
+                        else if (appraisal.Status == "New")
+                        {
+                            <a href="@Url.Action("EditEmployeeAppraisal", "Home", new { id = appraisal.Id })" class="btn btn-primary">View</a>
+                        }
+
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var disabledLinks = document.querySelectorAll(".disabled-link");
+            disabledLinks.forEach(function (link) {
+                link.addEventListener("click", function (event) {
+                    event.preventDefault();
+                });
+            });
+        });
+    </script>
+}
